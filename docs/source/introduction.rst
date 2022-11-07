@@ -1,6 +1,8 @@
-# PathFinder - Introduction
+PathFinder - Introduction
+=
 
-## What is the PathFinder Plugin?
+What is the PathFinder Plugin?
+-
 
 The PathFinder Plugin is an extension for your Minecraft server. It allows your users to find shortest paths across
 mazes, towns or even whole maps. Also, it can be configured to make points of interest discoverable, so that a player
@@ -12,7 +14,8 @@ sufficient for your project, new visualizer types can easily be added via develo
 ![Example Path](/src/assets/markdown/pathfinder/images/path_example.png)
 *Example path through a version of hogwarts that we built some time ago.*
 
-## How does it work?
+How does it work?
+-
 
 To solve problems like the finding of the shortest path across a town map or the navigation of a mob in a video game,
 some mathematical steps are required. But before lulling you with interesting background information, lets talk about
@@ -30,6 +33,7 @@ What you as administrator have to do to use this plugin is to create this exact 
 PathFinder offers some editing tools to easily define nodes, edges, edge weights (steeper or cobbled roads take longer),
 directions (one way roads), locations (by packing nodes to groups).
 
-## Background
+Background
+-
 
 Graph theory is a topic that deals with all kinds of problems regarding graphs.
