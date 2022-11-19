@@ -9,7 +9,7 @@ first has to find a location once on his or her own and then can use the navigat
 The calculated shortest path can be visualized in a variety of ways by default. If these visualizer types are not
 sufficient for your project, new visualizer types can easily be added via developers API as extension to PathFinder.
 
-![Example Path](src/images/path_example.png)
+![Example Path](../images/path_example.png)
 *Example path through a version of hogwarts that we built some time ago.*
 
 ## How does it work?
