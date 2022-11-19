@@ -59,15 +59,15 @@ module.exports = {
                     path: '/concept/',
                     children: [
                         ['/concept/roadmaps', 'Roadmaps, Nodes and Graphs'],
-                        ['/concept/nodegroups', 'Adding Logic with Nodegroups'],
+                        ['/concept/nodegroups', 'WIP - Adding Logic with Nodegroups'],
                     ]
                 }, {
                     title: 'Configuration',
                     collapsable: false,
                     path: '/configuration/',
                     children: [
-                        ['/configuration/config', 'config.yml'],
-                        ['/configuration/translations', 'Languages'],
+                        ['/configuration/config', 'WIP - config.yml'],
+                        ['/configuration/translations', 'WIP - Languages'],
                         ['/configuration/effects', 'effects.nbo'],
                     ]
                 }, {
@@ -82,22 +82,22 @@ module.exports = {
                             children: [
                                 ['/commands/pathfinder', '/pathfinder'],
                                 ['/commands/roadmap', '/roadmap'],
-                                ['/commands/waypoint', '/waypoint'],
-                                ['/commands/nodegroup', '/nodegroup'],
-                                ['/commands/pathvisualizer', '/pathvisualizer'],
+                                ['/commands/waypoint', 'WIP - /waypoint'],
+                                ['/commands/nodegroup', 'WIP - /nodegroup'],
+                                ['/commands/pathvisualizer', 'WIP - /pathvisualizer'],
                             ]
                         }, {
                             title: 'Player Usage',
                             path: '/commands/users',
                             collapsable: false,
                             children: [
-                                ['/commands/find', '/find'],
-                                ['/commands/cancelpath', '/cancelpath'],
+                                ['/commands/find', 'WIP - /find'],
+                                ['/commands/cancelpath', 'WIP - /cancelpath'],
                             ]
                         }
                     ]
                 }, {
-                    title: 'Developer API'
+                    title: 'WIP - Developer API'
                 }
             ],
         }
