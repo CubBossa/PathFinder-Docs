@@ -1,7 +1,7 @@
 <script>
 export default {
   mounted () {
-    this.$router.push('/getting_started/introduction')
+    this.$router.push('/commands/')
   }
 }
 </script>

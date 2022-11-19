@@ -77,7 +77,7 @@ module.exports = {
                     children: [
                         {
                             title: 'Administration',
-                            path: 'administration',
+                            path: '/commands/administration',
                             collapsable: false,
                             children: [
                                 ['/commands/pathfinder', '/pathfinder'],
@@ -88,7 +88,7 @@ module.exports = {
                             ]
                         }, {
                             title: 'Player Usage',
-                            path: 'player',
+                            path: '/commands/users',
                             collapsable: false,
                             children: [
                                 ['/commands/find', '/find'],

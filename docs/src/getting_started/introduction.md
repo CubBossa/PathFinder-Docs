@@ -1,3 +1,5 @@
+![Banner](../images/banner.png)
+
 # PathFinder - Introduction
 
 ## What is the PathFinder Plugin?
@@ -21,7 +23,8 @@ Navigation problems are mostly based on a web-like structure like a roadmap, a r
 earth like in Google Maps.
 This structure is called a graph. Every intersection of so called edges on this graph is called a node.
 
-// TODO img
+![example graph](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Directed_acyclic_graph.svg/220px-Directed_acyclic_graph.svg.png)
+*[Source](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Directed_acyclic_graph.svg/220px-Directed_acyclic_graph.svg.png)*
 
 To find the shortest path on a graph, several algorithms exist and are automatically computed by the plugin.
 (You may want to think it through, just taking every possible route and comparing their length will quickly become a
