@@ -59,7 +59,7 @@ or in other words not public and not in a restaurant.
 Once you get the hang of it and realize it's just like the oh beloved maths you'll be fine :D
 And if not, you still can walk to all nearest toilets and check out if they are public or in a restaurant.
 
-## Navigability
+### Navigability
 
 The search terms of the previous section require the node to be navigable. This means, that
 the player is allowed to actively find nodes of this group by their search terms.
@@ -81,12 +81,12 @@ In words, your query has to contain at least one active search term.
 But this is future yet, feel free to give me some feedback if this feature would be
 interesting to you.
 
-## Discoverability
+### Discoverability
 
 Discoverability decides, if your group can be discovered and shows a title / plays a sound or not.
 You can also specify, if groups have to be discovered to be navigable.
 
-## Find Distance
+### Find Distance
 
 The find distance of your group. It is the radius in blocks that the player have as distance to the node
 before he or she discovers or reaches the node.
