@@ -59,7 +59,7 @@ module.exports = {
                     path: '/concept/',
                     children: [
                         ['/concept/roadmaps', 'Roadmaps, Nodes and Graphs'],
-                        ['/concept/nodegroups', 'WIP - Adding Logic with Nodegroups'],
+                        ['/concept/nodegroups', 'Adding Logic with Nodegroups'],
                     ]
                 }, {
                     title: 'Configuration',
@@ -67,7 +67,7 @@ module.exports = {
                     path: '/configuration/',
                     children: [
                         ['/configuration/config', 'WIP - config.yml'],
-                        ['/configuration/translations', 'WIP - Languages'],
+                        ['/configuration/translations', 'Languages'],
                         ['/configuration/effects', 'effects.nbo'],
                     ]
                 }, {
