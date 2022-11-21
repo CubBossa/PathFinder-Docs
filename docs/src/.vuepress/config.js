@@ -92,7 +92,7 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 ['/commands/find', 'WIP - /find'],
-                                ['/commands/cancelpath', 'WIP - /cancelpath'],
+                                ['/commands/cancelpath', '/cancelpath'],
                             ]
                         }
                     ]
