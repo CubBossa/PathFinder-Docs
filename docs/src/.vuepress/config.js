@@ -97,7 +97,13 @@ module.exports = {
                         }
                     ]
                 }, {
-                    title: 'WIP - Developer API'
+                    title: 'Developer API',
+                    collapsable: false,
+                    path: '/api/',
+                    children: [
+                        ['/api/setup', 'Getting Started'],
+                        ['/api/what_can_you_do', 'What is possible?']
+                    ]
                 }
             ],
         }
